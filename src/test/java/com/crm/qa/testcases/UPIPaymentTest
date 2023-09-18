@@ -1,0 +1,8 @@
+public class UPIPaymentTest {
+	
+	public void UPIpayment()
+	{
+		int j=10;
+		int q=20;
+	}
+}
